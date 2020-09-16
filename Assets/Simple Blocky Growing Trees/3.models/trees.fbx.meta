@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 5f62b61214d9d4f9692551a670692ca5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: tree_01
+    100002: tree_01_end
+    100004: tree_01_mid
+    100006: tree_01_start
+    100008: tree_02
+    100010: tree_02_end
+    100012: tree_02_mid
+    100014: tree_02_start
+    100016: tree_03
+    100018: tree_03_end
+    100020: tree_03_mid
+    100022: tree_03_start
+    100024: tree_04
+    100026: tree_04_end
+    100028: tree_04_mid
+    100030: tree_04_start
+    100032: tree_05
+    100034: tree_05_end
+    100036: tree_05_mid
+    100038: tree_05_start
+    100040: tree_06
+    100042: tree_06_end
+    100044: tree_06_mid
+    100046: tree_06_mid_2
+    100048: tree_06_start
+    100050: tree_07
+    100052: tree_07_end
+    100054: tree_07_mid
+    100056: tree_07_start
+    100058: //RootNode
+    400000: tree_01
+    400002: tree_01_end
+    400004: tree_01_mid
+    400006: tree_01_start
+    400008: tree_02
+    400010: tree_02_end
+    400012: tree_02_mid
+    400014: tree_02_start
+    400016: tree_03
+    400018: tree_03_end
+    400020: tree_03_mid
+    400022: tree_03_start
+    400024: tree_04
+    400026: tree_04_end
+    400028: tree_04_mid
+    400030: tree_04_start
+    400032: tree_05
+    400034: tree_05_end
+    400036: tree_05_mid
+    400038: tree_05_start
+    400040: tree_06
+    400042: tree_06_end
+    400044: tree_06_mid
+    400046: tree_06_mid_2
+    400048: tree_06_start
+    400050: tree_07
+    400052: tree_07_end
+    400054: tree_07_mid
+    400056: tree_07_start
+    400058: //RootNode
+    2100000: No Name
+    2300000: tree_01_end
+    2300002: tree_01_mid
+    2300004: tree_01_start
+    2300006: tree_02_end
+    2300008: tree_02_mid
+    2300010: tree_02_start
+    2300012: tree_03_end
+    2300014: tree_03_mid
+    2300016: tree_03_start
+    2300018: tree_04_end
+    2300020: tree_04_mid
+    2300022: tree_04_start
+    2300024: tree_05_end
+    2300026: tree_05_mid
+    2300028: tree_05_start
+    2300030: tree_06_end
+    2300032: tree_06_mid
+    2300034: tree_06_mid_2
+    2300036: tree_06_start
+    2300038: tree_07_end
+    2300040: tree_07_mid
+    2300042: tree_07_start
+    3300000: tree_01_end
+    3300002: tree_01_mid
+    3300004: tree_01_start
+    3300006: tree_02_end
+    3300008: tree_02_mid
+    3300010: tree_02_start
+    3300012: tree_03_end
+    3300014: tree_03_mid
+    3300016: tree_03_start
+    3300018: tree_04_end
+    3300020: tree_04_mid
+    3300022: tree_04_start
+    3300024: tree_05_end
+    3300026: tree_05_mid
+    3300028: tree_05_start
+    3300030: tree_06_end
+    3300032: tree_06_mid
+    3300034: tree_06_mid_2
+    3300036: tree_06_start
+    3300038: tree_07_end
+    3300040: tree_07_mid
+    3300042: tree_07_start
+    4300000: tree_01_end
+    4300002: tree_01_mid
+    4300004: tree_01_start
+    4300006: tree_02_end
+    4300008: tree_02_mid
+    4300010: tree_02_start
+    4300012: tree_03_end
+    4300014: tree_03_mid
+    4300016: tree_03_start
+    4300018: tree_04_end
+    4300020: tree_04_mid
+    4300022: tree_04_start
+    4300024: tree_05_end
+    4300026: tree_05_mid
+    4300028: tree_05_start
+    4300030: tree_06_end
+    4300032: tree_06_mid
+    4300034: tree_06_mid_2
+    4300036: tree_06_start
+    4300038: tree_07_end
+    4300040: tree_07_mid
+    4300042: tree_07_start
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
